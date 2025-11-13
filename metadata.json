@@ -1,0 +1,5 @@
+{
+  "name": "Audio Clip Trimmer",
+  "description": "Upload a long MP3 audio file, play it, and visually select start and end times to trim and download precise short clips.",
+  "requestFramePermissions": []
+}
